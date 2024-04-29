@@ -24,5 +24,7 @@ public class Memo {
     //길이는 200, not null
     private String memoText;
 
+    private String memo;
+
 
 }
