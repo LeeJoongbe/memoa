@@ -26,5 +26,7 @@ public class Memo {
 
     private String memo;
 
+    private int age;
+
 
 }
